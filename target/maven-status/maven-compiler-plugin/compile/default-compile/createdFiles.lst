@@ -1,0 +1,13 @@
+com\maixuanviet\aws\reactive\s3\DownloadFailedException.class
+com\maixuanviet\aws\reactive\s3\DownloadResource.class
+com\maixuanviet\aws\reactive\s3\DownloadResource$FluxResponse.class
+com\maixuanviet\aws\reactive\s3\S3ClientConfiguration.class
+com\maixuanviet\aws\reactive\s3\UploadFailedException.class
+com\maixuanviet\aws\reactive\s3\UploadResult.class
+META-INF\spring-configuration-metadata.json
+com\maixuanviet\aws\reactive\s3\ReactiveS3Application.class
+com\maixuanviet\aws\reactive\s3\UploadResource.class
+com\maixuanviet\aws\reactive\s3\UploadResult$UploadResultBuilder.class
+com\maixuanviet\aws\reactive\s3\S3ClientConfigurarionProperties.class
+com\maixuanviet\aws\reactive\s3\DownloadResource$FluxResponseProvider.class
+com\maixuanviet\aws\reactive\s3\UploadResource$UploadState.class

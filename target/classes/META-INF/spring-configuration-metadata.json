@@ -1,0 +1,43 @@
+{
+  "groups": [
+    {
+      "name": "aws.s3",
+      "type": "com.maixuanviet.aws.reactive.s3.S3ClientConfigurarionProperties",
+      "sourceType": "com.maixuanviet.aws.reactive.s3.S3ClientConfigurarionProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aws.s3.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.maixuanviet.aws.reactive.s3.S3ClientConfigurarionProperties"
+    },
+    {
+      "name": "aws.s3.bucket",
+      "type": "java.lang.String",
+      "sourceType": "com.maixuanviet.aws.reactive.s3.S3ClientConfigurarionProperties"
+    },
+    {
+      "name": "aws.s3.endpoint",
+      "type": "java.net.URI",
+      "sourceType": "com.maixuanviet.aws.reactive.s3.S3ClientConfigurarionProperties"
+    },
+    {
+      "name": "aws.s3.multipart-min-part-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.maixuanviet.aws.reactive.s3.S3ClientConfigurarionProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "aws.s3.region",
+      "type": "software.amazon.awssdk.regions.Region",
+      "sourceType": "com.maixuanviet.aws.reactive.s3.S3ClientConfigurarionProperties"
+    },
+    {
+      "name": "aws.s3.secret-access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.maixuanviet.aws.reactive.s3.S3ClientConfigurarionProperties"
+    }
+  ],
+  "hints": []
+}
